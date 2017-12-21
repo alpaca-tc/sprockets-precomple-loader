@@ -1,0 +1,15 @@
+{
+  "name": "sprockets-precompile-loader",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alpaca-tc/sprockets-precompile-loader.git"
+  },
+  "homepage": "https://github.com/alpaca-tc/sprockets-precompile-loader.git",
+  "author": {
+    "name": "alpaca-tc",
+    "url": "https://alpaca.tc"
+  },
+  "license": "MIT"
+}
